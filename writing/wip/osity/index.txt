@@ -1,0 +1,80 @@
+Osity
+
+Since the year 2000, it became apparent that the digital revolution was ahead of us. Come 2023, we could not imagine the state of the world
+constant warefare threats the continuity of humanity, people are more polarized and sure of themselves, and there seems to be a heavy
+gloom on the future of technology. I can agree with many of these statements and I mark the issue on one reason, identity.
+
+Essence
+Essence is you. It is what you think, what you say, how you react, and what you beleive in. Before the year 2000, our essence was
+confined to one realm, the physical world. Because of this we were relavilty grounded with who we were. Most of the news we heard was locally,
+our friends reinforced our beliefs, and we rarely got to see or meet people from around the world with differing beleifs. 
+This is how humans lived since the beginning of time; in small circles. Circa 2000, our lives all of a sudden became much more open,
+open to the goodness, the war, crime, ideas, of the world. This very idea changed the way society functioned, and it everso changed 
+how humanity operated.
+
+2 Worlds
+The world is split into two, the physical world, contrived of atoms, and digital world, contrived of bits. 
+In the physical world, you are 1 of 1, but in the digital world you are 1 of N. For the first time in the history of the world
+you could be whoever you wanted. You could saw whatever you wanted without consequences, for the better or worse. Yet as I've 
+observed this has fundamentally destroyed the fabric of society, humans have not evolved to live a life 1 of N, it simply
+goes against who we are.
+
+Authentication was first, and proof of personhood is next. But proof of personhood cannot follow the tracks of authentication, it can use 
+them as insipration.
+
+Authentication 
+- I am something
+- I know something
+- I have something
+
+Proof of Personhood
+Proof of personhood is simply proving that you are indeed a human. More importantly it is proving that you are who you say you are.
+Proof of personhood is an underexplored idea, although I beleive it is extremely important, and it's implications for development
+must be taken with the most about of thought.
+
+To prove that you are indeed a human and who you say you are, there are a few soultions.
+
+Web of trust (Social Network)
+The web of trust authenticates a person through their surrondings. I'm reliant on my friends to prove I am in fact who I am. 
+This model falls apart if you some how lose your friends.
+
+Identification (KYC)
+Identification is the authentication form whereby a third party says you are who you are. This would most likely be a government.
+As you have learned in history, governments are not perfect, they become corrupt, and eventually fall. This is not a good solution,
+unless you want to pawn off your freedom.
+
+Biometrics
+Biometrics are more independent, you authenticate you are you by simply being yourself. Biometrics can be spoofed with some effort,
+and a great deal of effort goes into securing biometrics data. Biometric data also does not scale, as there is not enough randomness.
+
+Of all the listed ways to prove personhood, none are satisfactory for the future. In the following paragraph I explain why, 
+and my hope is that it becomes apparent.
+
+Essence
+Instead of looking at seperate parts of an indivdaul, what I know, and who I am. Essence looks at the system as a whole. It can see
+changes in the system, changes in you and anticipate them.
+
+Continuous Authentication
+
+Several methods of continuous authentication exist. You can examine someones keystrokes, behavior on an app, or monitor their face.
+
+
+Why 
+Why is proof of personhood important? Welp if it not apparent, you should obtain the same rights as you do in the physical world
+as you do in the real world. What does this mean in practice? Big tech should not own your data, they should not control what you
+see, and they should not own you. This statement may seem obvious, but I think we have forgotten that it is currently not true.
+We don't own our data, we don't own our thoughts, we don't hve the choice of determining what we see, and we have become 
+slaves to the machine.
+
+What is Osity?
+Osity is about living in the real world in a seamless way, the way that technology should have been created, as a tool. Continous authentication
+is what makes osity possible. It is the link between the magic of technology and soundness of the real world.
+
+A world I imagine.
+A world I imagine and hope to live to see is a world whereby I unlock my house by simply just walking in, unlock and start my car  
+by simply walking up to it and opening the door, walking into the subway and getting on a train where I'm automatically charged, 
+paying for something by the shake of a hand. All of this may sound like magic, but it is not, it is frictionless. That what osity is
+it allows you to live a frictionless life, one without cameras monitoring you, one without having to prove that you are in fact you, 
+one where you never lose your keys, never have to wait to buy a subway ticket, it just is. Osity is a next step in our evolution.
+
+Welcome to the frictionless world.
