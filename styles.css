@@ -10,17 +10,18 @@ h1 {
 }
 h2 {
   font-size: 18px;
-  margin-bottom: 0;
+  margin-bottom: -10px;
 }
 h3 {
   font-size: 16px;
-  margin-bottom: 0;
+  margin-bottom: -10px;
 }
 
 p,
 li {
   font-size: 14px;
   list-style: none;
+  text-align: justify;
 }
 
 hr {
